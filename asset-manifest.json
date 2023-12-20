@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37ca2d9f.css",
+    "main.js": "/static/js/main.6823a5bb.js",
+    "static/media/red_gradient.png": "/static/media/red_gradient.0f2e65a6850ee3b5e3df.png",
+    "static/media/banner_women.png": "/static/media/banner_women.38a7c7dcfd5bea38380c.png",
+    "static/media/banner_kids.png": "/static/media/banner_kids.a28f64abf7927a63bee9.png",
+    "static/media/banner_mens.png": "/static/media/banner_mens.b4cb7f9045ab266ab1e1.png",
+    "static/media/product_4.png": "/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/hero_image.png": "/static/media/hero_image.a36a3c59438624116c7d.png",
+    "static/media/product_1.png": "/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/hand_icon.png": "/static/media/hand_icon.7cde906549f0730e336d.png",
+    "index.html": "/index.html",
+    "main.37ca2d9f.css.map": "/static/css/main.37ca2d9f.css.map",
+    "main.6823a5bb.js.map": "/static/js/main.6823a5bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ca2d9f.css",
+    "static/js/main.6823a5bb.js"
+  ]
+}
